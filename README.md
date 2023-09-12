@@ -1,5 +1,5 @@
 # OPAs
-some of the sage files I used for computing two variable OPAs and OG polynomials. not efficient, but fine. Written in Sage 9.2 and 9.4, so there may be issues with updates. There are also known issues with trying to compute anything past about 40 OPAs or OG polys, but I never bothered fixing them because 40 terms is already too many to deal with for most things
+some of the sage files I used for computing two variable OPAs and OG polynomials. Written in Sage 9.2 and 9.4, so there may be issues with updates. There are also known issues with trying to compute anything past about 40 OPAs or OG polys, but I never bothered fixing them because 40 terms is already too many to deal with for most things
 
 the files that have OPAs and optimal norms were used in undergraduate research projects to look at rates of decay of optimal norms in the Hardy space of the bidisk.
 Somewhere I have files that work for other spaces on the bidisk (eg bergman) and I have something somewhere that plots the facial zeros of optimal approximants; I'll try to find those at some point.
